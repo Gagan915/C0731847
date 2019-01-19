@@ -13,6 +13,7 @@ namespace C0731847
             Console.WriteLine(1 + 1);
             int i = 1;
             int j = 4;
+            int k = 5;
         }
     }
 }
